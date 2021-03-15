@@ -44,3 +44,24 @@ li {
 .cards-store p {
     font-size: 13px;
 }
+
+.glider {
+    padding: 20px 0px;
+}
+
+.glider img {
+    height: 180px;
+    width: 200px;
+    text-align: center;
+}
+
+.glider-contain {
+    width: 80%;
+    margin-left: 10%;
+    position: relative;
+}
+
+.btn-detalhes {
+    width: 150px;
+    text-align: center;
+}
